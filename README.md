@@ -1,3 +1,8 @@
 # myDevMtnDemoRepo
 
-Do or do not!
+init() {
+func compoundingInterest () {
+print($$$$$$$)
+}
+compoundingInterest
+}
